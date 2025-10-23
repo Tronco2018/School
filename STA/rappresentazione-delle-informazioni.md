@@ -138,3 +138,9 @@ Result = $100110.01001$
 ## Rappresentazione dei numeri "reali"
 - **Convertire il numero reale**
 - **Normalizzazione** -> spostare la virgola subito dopo il primo 1 più significativo e moltiplicare per una potenza del due con esponente (positivo o negativo) corrispondente al numero di posti in cui la virgola è stata spostata
+($1101011.011 => 1.101011011\times2^{+6}$)
+
+---
+- La **caratteristica** (esponente del due) verrà sempre rappresentata con un numero positivo. Si ottiene sommando il bias che varia in base al tipo di rappresentazione scelta:
+ * Rappresentazione a 32 bit -> 127
+ * Rappsesentazione a 64 bit -> 1023
