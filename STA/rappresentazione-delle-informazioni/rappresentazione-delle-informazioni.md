@@ -109,11 +109,11 @@ Risultato: `1101011.011`
 ### Formato
 ```
 32 bit: |S|EEEEEEEE|MMMMMMMMMMMMMMMMMMMMMMM|
-        ↑ └─────┘  └────────────────────┘
+        ↑ └───────┘└───────────────────────┘
       segno   esp.        mantissa
 
 64 bit: |S|EEEEEEEEEEE|MMMM...MMMM|
-        ↑ └────────┘  └──────────┘
+        ↑ └──────────┘└───────────┘
       segno   esp.     mantissa
 ```
 

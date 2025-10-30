@@ -6,3 +6,9 @@
 4. Will people use driverless busses in 60 years? "Yes, they will"
 
 ---
+### Exercises - 30/10/2025 (student book)
+**Es. 3 pag.142**
+1. Why do you need to have insurance in America?
+2. Why don't the citizes taxes cover the cost?
+3. How is the NHS structured?
+4. How many tax dollar do the UK spend on the NHS?
