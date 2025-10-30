@@ -109,12 +109,29 @@ Risultato: `1101011.011`
 ### Formato
 ```
 32 bit: |S|EEEEEEEE|MMMMMMMMMMMMMMMMMMMMMMM|
-        ↑ └───────┘└───────────────────────┘
-      segno   esp.        mantissa
+         ↑└───────┘└───────────────────────┘
+       segno  esp.       mantissa
 
 64 bit: |S|EEEEEEEEEEE|MMMM...MMMM|
-        ↑ └──────────┘└───────────┘
-      segno   esp.     mantissa
+         ↑└──────────┘└───────────┘
+       segno  esp.      mantissa
 ```
 
 > **Nota**: La rappresentazione in virgola mobile permette di gestire un'ampia gamma di numeri con diversa precisione.
+
+**Esempio**
+Rappresentare $1527.67$ su $4\space byte$
+$Bias = 128$
+$Parte\space intera = 1527 = 11101111101$
+$Parte\space decimale = 67 = 1010101110000101$
+$Numero = 1.011111011110101011100001\times2^{10}$
+$Bias + caratteristica = +9 + 127 = 136 = 10001000$
+$Numero\space finale = 01000100001111101111010101110000$
+
+**Esempio 2**
+Decodificare il numero $11000011110110001111000000000000$ (numero con la virgola / reale)
+
+$Bias + caratteristica = 135$
+$Caratteristica = 135 - 127 = 8$
+$-1.10110001111\times2^{8}$
+$= 110110001111 = 256 + 128 + 32 + 16 + 1 = -433.785$
