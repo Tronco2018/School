@@ -6,7 +6,7 @@
 
 "Trascorso però un certo periodo": Subordinata temporale, implicita
 "Giove manda Mercurio da Enea": Principale
-"per esortarlo a compiere la missione affidatagli dal destino": Subordinata finale, implicita
+"per esortarlo a compiere la missione": Subordinata finale, implicita
 "affidatagli dal destino": Subordinata relativa, implicita
 
 "Sebbene sia molto addolorato": Subordinata concessiva, esplicita
@@ -14,7 +14,7 @@
 "e spera": Coordinata copulativa
 "che anche la regina possa accettare il distacco inevitabile": Subordinata oggettiva, esplicita
 
-"Vedendo tradite le sue speranze": Subordinata modale, implicita
+"Vedendo tradite le sue speranze": Subordinata causale, implicita
 "Didone reagisce però violentemente": Principale
 "accusandolo": Subordinata modale, implicita
 "e allo stesso tempo supplicandolo": Coordinata alla precedente, subordinata modale, implicita
