@@ -55,3 +55,17 @@
 9. Se avessi mostrato un atteggiamento più conciliante, avresti sicuramente ottenuto ciò che desideravi.  
 10. Se ti alzassi in tempo la mattina, arriveresti puntuale a scuola.  
 11. Se ti allenassi con più costanza, otterresti risultati più evidenti.  
+
+
+### Compiti - (11/11/2025)
+**Es. 115 Pag. 505**
+- L’aggettivo psicosomatico indica il rapporto tra attività psichiche e fisiche: **principale**
+
+- gli stati dolorosi psicosomatici sono quelli: **principale coordinata alla precedente**
+- che sembrano essere i sintomi di una malattia: **subordinata relativa**
+- quando invece sono il risultato di una situazione di stress, di ansia o di paura: **subordinata avversativa**
+
+- Se qualcuno soffre di disturbi psicosomatici: **subordinata condizionale**
+- può presentare dolori gastrointestinali o muscolari, problemi respiratori, tachicardia, eruzioni cutanee o altri sintomi fisici: **principale**
+- senza che ci sia una causa patologica: **subordinata esclusiva**
+- a cui essi possano essere ricondotti: **subordinata relativa**
