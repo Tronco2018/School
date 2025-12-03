@@ -98,3 +98,8 @@ I live in Friuli Venezia-Giulia, a northen italian region bordering Slovenia and
 My region is really a magic place with a variety of weathers.  
 
 ---
+
+### Homework - 3/12/2025 (Student book)
+**Es. 22 pag.161**
+
+I'm not sure about my dream job but it surely will be ralated to IT in some way. I really enjoy something that realates to that and i have some options i want to choose. My dream job would probably be a Software Engineer/Developer or a Network Engineer on large systems like data centers or large clusters of servers. I really like networking because i like the logic beahind it, connecting various computer in an organized and efficient way, putting cables, writing configurations. That really is something amazing i would love to do!
