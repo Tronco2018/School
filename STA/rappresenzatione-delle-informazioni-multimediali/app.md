@@ -50,4 +50,22 @@ Consideremo 3 tipologie standard di quantizzazione.
 I video sono semplicemente una sequenza di immagini in rapida "riproduzione".  
 L'unica grandezza aggiuntiva riguarda il numero di immagini (frame, fotogrammi) visualizzati in un secondo, ossia FPS.  
 Quanti GB occupa un video con fotogrammi in full-hd e true colors della durata di 10 minuti a 25 fps.  
->$5.93*25*600 = 88950 MB = 86.9 GB$
+
+## 4. Rappresentazione dei suoni
+
+### Frequenza
+Un unita di misura dei suoni e' la frequenza. La frequenza se e' piu bassa il suono sembra piu' profondo mentre se e' piu alta il suono sembra piu' alto.
+![Frequenza](img/image.png)
+
+### Campionamento
+Il campionamento consiste in quanti punti del suono preleviamo ogni secondo.  
+Si chiama anche frequenza di campionamento e si misura in hertz (Hz).  
+Ogni **campione** ha una sua **intensita'**.
+
+![Campionamento](img/image-1.png)
+
+### Quantizzazione
+Corrisponde al numero di suddivisioni dell'intensita' del suono. Quindi le informazioni vengono tradotte in modo quantificabile. Generalmente si utilizzano **16 bit** per rappresentare le suddivisioni dell'intensita', ossia 65'536 livelli di intensita'.  
+Lo standard CD audio utilizza un campionamento a 44.1 kHz e una quantizzazione a 2 byte/campione.
+
+![Quantizzazione](img/image-2.png)
