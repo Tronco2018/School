@@ -2,11 +2,11 @@
 - **Immagini**
 - **Video**
 - **Suoni**
-- **Simboli afanumerici**
+- **Simboli alfanumerici**
 
 ## 1. Rappresentazione dei simboli alfanumerici
 - **Codifica ASCII standard**   
-usa 7 bit (il bit piu significativo e' zero)  
+usa 7 bit (il bit più significativo e' zero)  
 >Esempio:  
 `A <---> 01000001`  
 `@ <---> 01000000`  
@@ -16,7 +16,7 @@ usa 7 bit (il bit piu significativo e' zero)
 usa 8 bit (non e' standard)
 
 - **UNICODE**  
-usa 16 bit, i primi 128 simboli sono ASCII standart (per retrocompatibilita)
+usa 16 bit, i primi 128 simboli sono ASCII standard (per biocompatibilità)
 >Esempio:  
 `A <---> 0000000001000001`
 
@@ -29,20 +29,20 @@ UNICODE = 00000000000110000
 
 ## 2. Rappresentazione delle immagini
 - **Campionamento** - suddivisione delle immagini in pixel - immagini raster (Pixel = Picture element).  
-La risoluzione e' il numero di pixel (MegaPixel) che e' numero verticale per numero orizzontale di pixel (1920x1080).
+La risoluzione e' il numero di pixel (Megapixel) che e' numero verticale per numero orizzontale di pixel (1920x1080).
 
 - **Quantizzazione** - quanti bit si utilizzano per rappresentare un pixel.  
 Ad esempio:   
 La risoluzione dell'immagine precedente e': 6x3  
 La quantizzazione e': 1 bit (2 colori)  
 Se la rappresentiamo con 0 = nero e con 1 = bianco, quale sequenza di bit otteniamo: `[0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0]` (Peso: 18 bit = 3 byte rappresentato).   
-Consideremo 3 tipologie standard di quantizzazione.  
+Consideriamo 3 tipologie standard di quantizzazione.  
 -> 1 bit x pixel (immagini B/N)  
 -> 8 bit x pixel (livelli di grigio / colore)  
 -> 24 bit x pixel (immagini RGB)  
 -> 32 bit x pixel (immagini RGBA [con trasparenza])  
   
-  Quanti MB occupera' un'immagine full-HD in true color?  
+  Quanti MB occuperà un'immagine full-HD in true color?  
   >1920x1080 = 2073600 pixel  
   >2073600 x 24 = 49766400 bit = 6220800 byte / 2^20 = 5.93 MB
 
