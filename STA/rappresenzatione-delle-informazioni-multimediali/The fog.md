@@ -69,3 +69,10 @@ Corrisponde al numero di suddivisioni dell'intensita' del suono. Quindi le infor
 Lo standard CD audio utilizza un campionamento a 44.1 kHz e una quantizzazione a 2 byte/campione.
 
 ![Quantizzazione](img/image-2.png)
+
+# Compressione delle informazioni
+_Comprimere un informazione significa ridurre lo spazio occupato in memoria._
+
+Esistono due categorie di compressione:
+- **lossless** (compressione senza perdita di informazioni)
+- **lossy** (compressione con perdita di informazioni)
