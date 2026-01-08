@@ -70,9 +70,32 @@ Lo standard CD audio utilizza un campionamento a 44.1 kHz e una quantizzazione a
 
 ![Quantizzazione](img/image-2.png)
 
+---
 # Compressione delle informazioni
 _Comprimere un informazione significa ridurre lo spazio occupato in memoria._
 
 Esistono due categorie di compressione:
-- **lossless** (compressione senza perdita di informazioni)
-- **lossy** (compressione con perdita di informazioni)
+- **lossless** (compressione senza perdita di informazioni): ZIP, RAR
+- **lossy** (compressione con perdita di informazioni): JPEG, PNG, MP3
+
+### Compressione di un immagine
+
+**lossless (esempio semplice)**
+Se abbiamo un immagine con colori che si ripetono possiamo contarli invece che rappresentarli tutti di base.
+Da: **RRRRRGGG** A: **5R 3G**
+Cosi possiamo ridurre la dimensione.
+
+**lossy (esempio semplice)**
+Dividiamo l'immagine in blocchi di 4px per esempio e memorizzo il colore predominante del blocco
+Da: **RR RG** A: **R**
+Quindi ricostruendola si perdera' il dettaglio del **B**
+
+**Esercizio**
+Un film a colori della durata di 1 ora e mezza (90 minuti) con 24 FPS e risoluzione di 1920x1024px quanti GB occupa?
+Se viene compresso del 95% quanti GB occupa?
+
+$Durata=90*60=5400s$
+$PesoFrame=1966080*3=5898240 bytes$
+$PesoAlSecondo=5898240*24=141557760 bytes$
+$PesoTot = 141557760*5400=764411904000bytes*2^{30} = 711.91 GB$
+$PesoRidotto=711.91*0.95= 35.60 GB$
