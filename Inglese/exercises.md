@@ -12,3 +12,12 @@
 2. Why don't the citizes taxes cover the cost?
 3. How is the NHS structured?
 4. How many tax dollar do the UK spend on the NHS?
+---
+### Exercises- 22/01/2026 (student book)
+**Es. 5 pag.189**
+1. I don't belive it.
+2. Oh, dear! What a shock!
+3. What happend next?
+4. Did you really?
+5. There was only a problem.
+6. What a shame.
