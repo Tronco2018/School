@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f8fb0730ced0e26c",
@@ -197,6 +196,8 @@
   },
   "active": "64bdbb57aac69d22",
   "lastOpenFiles": [
+    "Inglese/quaderno.md",
+    "Inglese/exercises.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/img/image.png"
   ]
