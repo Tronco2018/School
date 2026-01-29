@@ -32,6 +32,10 @@ Durante il discorso principale del racconto Helmer accusa Nora di pensare come u
 
 8. Gianluca era incerto sul suo futuro e si chiedeva se continuare a studiare o cercare un lavoro.
 
-9. Antonio, scettico, chiese loro se fossero sicuri di voler acquistare quell’appartamento.
+9. Antonio, scettico, chiese loro se fossero sicuri di voler acquistare quell'appartamento.
 
 10. L’intervistatore gli chiese quanto guadagnasse e quanto avesse guadagnato.
+
+### Compiti - 29/01/2026 (Poesia)
+**Es 7 pag.426**
+La poesia dà una definizione efficace dell’esistenza umana perché riesce a dire moltissimo con pochissime parole. L’uomo è descritto come “solo”, già separato dagli altri e dal mondo. La “terra trafitta da un raggio di sole” rappresenta la vita: un attimo di luce, fragile e temporaneo. Quel raggio non riscalda davvero, colpisce e basta, come se vivere fosse più subire che scegliere. L'ultimo verso, comunica la rapidità del tempo: non c’è gradualità ma la sera arriva di colpo.
