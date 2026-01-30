@@ -11,14 +11,12 @@
             "id": "64bdbb57aac69d22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Italiano/quaderno.md",
-                "mode": "source",
-                "source": false
+                "file": "Italiano/thisimage.png.png"
               },
-              "icon": "lucide-file",
-              "title": "quaderno"
+              "icon": "lucide-image",
+              "title": "thisimage.png"
             }
           }
         ]
@@ -196,7 +194,8 @@
   },
   "active": "64bdbb57aac69d22",
   "lastOpenFiles": [
-    "Pasted image 20260130101916.png",
+    "Italiano/quaderno.md",
+    "Italiano/thisimage.png.png",
     "Inglese/exercises.md",
     "Inglese/quaderno.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
