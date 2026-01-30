@@ -37,5 +37,8 @@ Durante il discorso principale del racconto Helmer accusa Nora di pensare come u
 10. L’intervistatore gli chiese quanto guadagnasse e quanto avesse guadagnato.
 
 ### Compiti - 29/01/2026 (Poesia)
+**pag.426**
+![[Pasted image 20260130101916.png]]
+
 **Es 7 pag.426**
 La poesia dà una definizione efficace dell’esistenza umana perché riesce a dire moltissimo con pochissime parole. L’uomo è descritto come “solo”, già separato dagli altri e dal mondo. La “terra trafitta da un raggio di sole” rappresenta la vita: un attimo di luce, fragile e temporaneo. Quel raggio non riscalda davvero, colpisce e basta, come se vivere fosse più subire che scegliere. L'ultimo verso, comunica la rapidità del tempo: non c’è gradualità ma la sera arriva di colpo.
