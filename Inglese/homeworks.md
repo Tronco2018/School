@@ -1,4 +1,4 @@
-### Homeworks - 16/09/25 (student book)
+### Homework - 16/09/25 (student book)
 **Es 2 pag.110**
 
 - i catch the bus every day
@@ -13,7 +13,7 @@
 - My friends car is very expencive and exciting but it can be tiring to drives
 ---
 
-### Homeworks - 18/09/25 (OpenSpace)
+### Homework - 18/09/25 (OpenSpace)
 **Es 1 pag.95**
 1. Does your uncle teach science?
 2. Do they learn French in school?
@@ -32,7 +32,7 @@
 5. Do they drink tea in the morning?
 
 **Es 3 pag.95**
-1. I don't have a wollen cap. I need to buy one for the winter.
+1. I don't have a woolen cap. I need to buy one for the winter.
 2. "Does Sharon read a lot?" "Yes, she does".
 3. How often do you take your dog for a walk?
 4. "What sport does George prefer?" "I don't know. Maybe volleyball"
@@ -43,13 +43,13 @@
 1. "How often do you meet Larry?" "I meet him just once a month"
 2. "Does Gary really talk to his plants to make them grow?" "Yes, he does"
 3. "How long does the film last?" "It lasts about 3 hours. It's boring"
-4. "Does your grandad have a car?" "Yes, but he doesn't like driving."
+4. "Does your granddad have a car?" "Yes, but he doesn't like driving."
 5. It's dark in this room. Why don't you turn the lights on?
 6. "What time does the last train leave for Bristol?" "It leaves at 11.45"
 7. "Do they sell souvenirs here?" "I'm not sure, but i don't think so"
 8. "What happens to water at 0°C?" "It turns into ice"
 --- 
-### Homeworks - 22/09/25 (OpenSpace)
+### Homework - 22/09/25 (OpenSpace)
 
 **Es 1 pag.301**
 1. This parcel has arrived today

@@ -38,9 +38,3 @@ One of the mayor issues is that too many people underestimate how important good
 
 However technology is not only a risk source. Tools such as cryptography, two-factor authentication and automatic backups keep safe the data and reduce the amount of damages inflicted when attacks happen. The true challenge is finding the balance between convenience and security, without worsening the user experience.
 
-**BAD translation**
-In the last years information technology security has become a central theme even for common users. Always more daily activities, like paying a bill or talking with your friends, pass trough internet. This means that a big chunk of personal data gets always exchanged online.
-
-One of the main problems is that a lot of people underestimate the importance of good practices of security. Using the same password for multiple services, ignoring the software updates or connecting to public Wifi networks without protections are routines that happen very often. This actions make devices more vulnerable to the attacks.
-
-The technology we have is able to maybe be not only a factor or risk. things that we can use, like tools that do stuff like cryptography or the two factor authentication and automatic automatic system armed with backups that save data aid the process of the really really safe protection of the things stored in the data centers and being less bad when unexpected things happen in bad cases. We have a hard challenge: said challenge is difficult, i mean the task that is to localize in the computer (the machine we're using, as we can consider phones "computers") the equilibrium in the middle of really easy access things and things that make us really safe in a digitln environment, by being the thing who is responsibe for the creation of the thing that was aforementioned in the paragraph behind this, or in other words, the experience of the user plenty harder than it shoud be beyond any reasonable doubt.

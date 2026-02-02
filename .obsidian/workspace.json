@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/quaderno.md",
+                "file": "Inglese/exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quaderno"
+              "title": "exercises"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "64bdbb57aac69d22",
   "lastOpenFiles": [
-    "Italiano/thisimage.png",
-    "Italiano/quaderno.md",
-    "Inglese/exercises.md",
+    "Inglese/homeworks.md",
     "Inglese/quaderno.md",
+    "Italiano/quaderno.md",
+    "Italiano/thisimage.png",
+    "Inglese/exercises.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/img/image.png"
   ]
