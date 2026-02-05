@@ -90,3 +90,5 @@ In earlier time, wireless communication was made possible only with morse code. 
 
 _**How invented the FM radio?**_
 Born in New York City, Edwin Howard Armstrong graduated...
+
+## Translation - 04/02/2026
