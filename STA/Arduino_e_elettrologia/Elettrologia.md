@@ -18,3 +18,7 @@ Una carica elettrica può attirare o respingere oggetti, generando un campo elet
 _**Differenza di potenziale**_
 In presenza di cariche elettriche fra due punti distinti e' presente una differenza di potenziale (capacita' di attrarre/respingere altre cariche elettriche).
 Questa grandezza fisica si misura in Volt (simbolo $V$) e si può chiamare anche tensione o forza elettromotrice ($t.e.m$).
+
+**Tipi di differenza di potenziale**
+- DC => (Continua)
+- AC => (Alternata)
