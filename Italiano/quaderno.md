@@ -42,3 +42,22 @@ Durante il discorso principale del racconto Helmer accusa Nora di pensare come u
 
 **Es 7 pag.426**
 La poesia dà una definizione efficace dell’esistenza umana perché riesce a dire moltissimo con pochissime parole. L’uomo è descritto come “solo”, già separato dagli altri e dal mondo. La “terra trafitta da un raggio di sole” rappresenta la vita: un attimo di luce, fragile e temporaneo. Quel raggio non riscalda davvero, colpisce e basta, come se vivere fosse più subire che scegliere. L'ultimo verso, comunica la rapidità del tempo: non c’è gradualità ma la sera arriva di colpo.
+### Compiti - 10/02/2026 (Poesia)
+**pag.274**
+**es. 1**
+I protagonisti del sonetto sono l'autore, suo fratello giovanni e la loro madre e si trovano rispettivamente: in esilio, a Venezia sepolto ed a Venezia ancora in vita.
+**es. 2**
+Si riferisce alla madre, l'espressione indica l'eta avanzata della madre e il pensiero che non le rimangano molti giorni di vita.
+**es. 4**
+13-14
+**es. 5**
+la morte e il rimpianto dell'esilio dell'autore.
+**es. 10**
+>Un giorno, se smetterò di correre sempre da un popolo all’altro, mi vedrai seduto sulla tua tomba, fratello mio, piangendo per la perdita dei tuoi anni migliori, quelli nobili e promettenti. La madre, ormai anziana e con il tempo dei suoi giorni quasi esaurito, parlerà di me davanti al tuo silenzioso cadavere. Io però continuerò a tendere inutilmente le mani verso di voi, cercando forse un contatto che non potrà esserci, e potrò solo salutare da lontano le mie case e il luogo dove ho vissuto. Sento le forze avverse, gli dèi che sembravano contrari al tuo destino, e le preoccupazioni nascoste che hanno turbato la tua vita. Anch’io prego perché tu possa finalmente trovare pace nella tua tomba: questo è tutto ciò che mi resta di tanta speranza che avevo. Straniere genti, restituitemi allora le mie ossa, perché possano essere sepolte accanto al cuore della madre, così addolorata.
+
+**Riflessioni sui versi**
+- Il poeta parla a un fratello morto, riflettendo sul dolore per la sua perdita e sul tempo perduto (“il fior de’ tuoi gentili anni caduto”). C’è un contrasto tra la vitalità del fratello e la condizione del poeta, costretto a vagare tra la gente senza trovare pace.
+- La madre è simbolo di lutto e attesa: il poeta immagina la scena in cui lei, ormai anziana, parla di lui davanti al fratello morto, evidenziando la distanza e l’impossibilità di riconciliazione.
+- L’“inutilità delle palme” rappresenta i successi o le conquiste che il poeta vorrebbe offrire ai defunti, ma che restano vane.
+- C’è una dimensione religiosa e metafisica: il poeta riconosce la presenza degli dèi e dei “numi avversi” che hanno ostacolato la vita del fratello, e prova a intercedere tramite la preghiera per la sua pace.
+- L’ultimo verso introduce la speranza di riunire simbolicamente il corpo del poeta con la madre, evocando il desiderio di riconciliazione familiare e di un riposo definitivo.
