@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/homeworks.md",
+                "file": "Inglese/exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homeworks"
+              "title": "exercises"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8fb0730ced0e26c",
@@ -211,12 +212,12 @@
   },
   "active": "ae7e7aa21620d2cf",
   "lastOpenFiles": [
+    "Inglese/homeworks.md",
+    "Inglese/exercises.md",
     "Italiano/quaderno.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
     "STA/Arduino_e_elettrologia/Elettrologia.md",
     "STA/Arduino_e_elettrologia",
-    "Inglese/exercises.md",
-    "Inglese/homeworks.md",
     "Inglese/quaderno.md",
     "Italiano/thisimage.png",
     "STA/rappresenzatione-delle-informazioni-multimediali/img/image.png"

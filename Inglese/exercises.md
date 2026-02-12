@@ -91,4 +91,12 @@ In earlier time, wireless communication was made possible only with morse code. 
 _**How invented the FM radio?**_
 Born in New York City, Edwin Howard Armstrong graduated...
 
-## Translation - 04/02/2026
+---
+### Exercise - 11/02/2026 (Student book)
+**es.13 pag.192**
+1. I like people who aren't rude.
+2. I can't stand novels that are boring.
+3. I like authors who are friendly.
+4. There are stories where the protagonist makes dumb decisions.
+5. I hate places where there's too much traffic
+6. I love films whose plot is exciting!

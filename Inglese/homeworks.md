@@ -106,4 +106,7 @@ My region is really a magic place with a variety of weathers.
 
 ### Homework - 12/02/2026 (Student book)
 **es.4 pag.192**
-Harry Hole is the protagonist from the book series "The bat".
+Harry Hole is the protagonist from the crime book series "The bat".
+
+
+
