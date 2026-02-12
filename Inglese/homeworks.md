@@ -103,4 +103,7 @@ My region is really a magic place with a variety of weathers.
 **Es. 22 pag.161**
 
 >I'm not sure about my dream job yet but it surely will be something related to IT in some way. I really enjoy everything that realates to that and i have some options i want to choose from. My dream job would probably be - Software Engineer/Developer or Network Engineer on large systems like data centers or large clusters of servers. I really like networking because i like the logic behind it, connecting various computers in an organized and efficient way, wiring cables, writing configurations. That really is something amazing that i would love to do!
----
+
+### Homework - 12/02/2026 (Student book)
+**es.4 pag.192**
+Harry Hole is the protagonist from the book series "The bat".
