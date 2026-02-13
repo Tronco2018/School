@@ -41,7 +41,7 @@ Durante il discorso principale del racconto Helmer accusa Nora di pensare come u
 ![thiimage](thisimage.png)
 
 **Es 7 pag.426**
-La poesia dà una definizione efficace dell’esistenza umana perché riesce a dire moltissimo con pochissime parole. L’uomo è descritto come “solo”, già separato dagli altri e dal mondo. La “terra trafitta da un raggio di sole” rappresenta la vita: un attimo di luce, fragile e temporaneo. Quel raggio non riscalda davvero, colpisce e basta, come se vivere fosse più subire che scegliere. L'ultimo verso, comunica la rapidità del tempo: non c’è gradualità ma la sera arriva di colpo.
+La poesia dà un' ottima definizione dell’esistenza umana perché riesce a dire tanto con poche parole. L’uomo è descritto come “solo”, già separato dagli altri e dal mondo. La “terra trafitta da un raggio di sole” rappresenta invece la vita: un attimo di luce, fragile e temporaneo. Quel raggio non riscalda davvero, colpisce e basta, come se vivere fosse più subire che scegliere. L'ultimo verso invece comunica la rapidità del tempo, non ci sono dei gradi e la sera arriva di colpo.
 ### Compiti - 10/02/2026 (Poesia)
 **pag.274**
 **es. 1**
@@ -52,8 +52,12 @@ Si riferisce alla madre, l'espressione indica l'eta avanzata della madre e il pe
 13-14
 **es. 5**
 la morte e il rimpianto dell'esilio dell'autore.
+**es. 6**
+il poeta spera che un giorno possa salutare il fratello mentre nella seconda terzina vorrebbe che sua madre non dovesse viaggiare per andarlo a trovare nella tomba
+**es. 9**
+rinforza i significati
 **es. 10**
->Un giorno, se smetterò di correre sempre da un popolo all’altro, mi vedrai seduto sulla tua tomba, fratello mio, piangendo per la perdita dei tuoi anni migliori, quelli nobili e promettenti. La madre, ormai anziana e con il tempo dei suoi giorni quasi esaurito, parlerà di me davanti al tuo silenzioso cadavere. Io però continuerò a tendere inutilmente le mani verso di voi, cercando forse un contatto che non potrà esserci, e potrò solo salutare da lontano le mie case e il luogo dove ho vissuto. Sento le forze avverse, gli dèi che sembravano contrari al tuo destino, e le preoccupazioni nascoste che hanno turbato la tua vita. Anch’io prego perché tu possa finalmente trovare pace nella tua tomba: questo è tutto ciò che mi resta di tanta speranza che avevo. Straniere genti, restituitemi allora le mie ossa, perché possano essere sepolte accanto al cuore della madre, così addolorata.
+>Un giorno, se smetterò di correre sempre da un popolo all’altro, mi vedrai seduto sulla tua tomba, fratello mio, piangendo per la perdita dei tuoi anni migliori, quelli nobili e promettenti. La madre, ormai anziana e con il tempo dei suoi giorni quasi esaurito, parlerà di me davanti al tuo silenzioso cadavere. Io però continuerò a tendere inutilmente le mani verso di voi, cercando forse un contatto che non potrà esserci, e potrò solo salutare da lontano le mie case e il luogo dove ho vissuto. Sento le forze avverse, gli dei che sembravano contrari al tuo destino, e le preoccupazioni nascoste che hanno turbato la tua vita. Anche io prego perché tu possa finalmente trovare pace nella tua tomba, questo è tutto ciò che mi resta di tanta speranza che avevo. Straniere genti, restituitemi allora le mie ossa, perché possano essere sepolte accanto al cuore della madre, così addolorata.
 
 **Riflessioni sui versi**
 - Il poeta parla a un fratello morto, riflettendo sul dolore per la sua perdita e sul tempo perduto (“il fior de’ tuoi gentili anni caduto”). C’è un contrasto tra la vitalità del fratello e la condizione del poeta, costretto a vagare tra la gente senza trovare pace.

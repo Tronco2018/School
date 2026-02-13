@@ -1,8 +1,8 @@
 ### Atomo
 Fatto da:
-- Protone (+) => interno (nucleo)
-- Neutrone (\*) => interno (nucleo) 
-- Elettrone (-) => esterno (anelli)
+- Protone (+) => interno (nucleo) [Carica positiva]
+- Neutrone (\*) => interno (nucleo) [Neutro]
+- Elettrone (-) => esterno (anelli) [Carica negativa]
 
 In un atomo stabile => $nProtoni = nElettroni$
 In un atomo con carica positiva => $nProtoni > nElettroni$
