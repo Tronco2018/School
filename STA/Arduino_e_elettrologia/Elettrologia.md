@@ -33,3 +33,8 @@ $$Ampere = \frac{Coulomb}{secondo}$$
 **Conduttori**
 I materiali che permettono il passaggio di corrente elettrica si dicono conduttori (es. rame, argento, oro, tungsteno, ecc...), mentre i materiali che si "oppongono" al movimento di cariche si dicono isolanti (es. gomma, vetro, legno, ecc...).
 Esistono materiali semiconduttori, esistono anche superconduttori.
+
+### Potenza elettrica
+E' l'energia applicata per un intervallo di tempo e si misura in Watt 
+$$P=V\times I$$
+Potenza {W} = Differenza di potenziale {V} * Intensità di corrente {A}
