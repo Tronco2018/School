@@ -22,3 +22,13 @@ Questa grandezza fisica si misura in Volt (simbolo $V$) e si può chiamare anche
 **Tipi di differenza di potenziale**
 - DC => (Continua)
 - AC => (Alternata)
+
+### Corrente elettrica
+E' il movimento ordinato di cariche elettriche. L'Intensità della corrente e' data da $$i=\frac{\Delta{Q}}{\Delta{t}}$$
+$\Delta{Q}$ => variazione di carica elettrica
+$\Delta{t}$ => variazione di tempo
+
+L'Intensità di corrente elettrica di misura in Ampere
+$$Ampere = \frac{Coulomb}{secondo}$$
+**Conduttori**
+I materiali che permettono il passaggio di corrente elettrica si dicono conduttori (es. rame, argento, oro, tungsteno, etc..), mentre i materiali che si "oppongono" al movimento di cariche si dicono isolanti.
