@@ -108,8 +108,10 @@ My region is really a magic place with a variety of weathers.
 **es.4 pag.192**
 Harry Hole is the protagonist from the crime book series "The bat".
 ### Homeworks - 04/03/2026 (Student book)
+
 **es.3 pag. 200**
-Nordoff Robbins is an organisation that teaches and provides music therapy to children, adults with learning difficulties and elderly people.
+Nordoff Robbins is an organisation that provides music therapy to children, adults with learning difficulties and elders.
+
 **es.9 pag.201**
 Here in Italy, music therapy is practice and the most known organizations are the AIM (Associazione Italiana della Musicoterapia) and the APIM (Associazione Professionale Italiana Musicoterapeuti).
 Music therapy in Italy is mostly used on psychiatric, elders, rehab patients and with autistic patients. In Italy, music therapy organizations aren't recognized as certified professions in the public health system. Talking about knowledge, to work at the AMTA you need a specific degree plus twelve-hundreds hours of internship while in Italy you just need a 3 years Master's dregree. 
