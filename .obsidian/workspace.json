@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/homeworks.md",
+                "file": "STA/Arduino_e_elettrologia/Elettrologia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homeworks"
+              "title": "Elettrologia"
             }
           }
         ]
@@ -196,11 +196,11 @@
   },
   "active": "3e49bb45234a4a88",
   "lastOpenFiles": [
+    "Inglese/homeworks.md",
     "Inglese/quaderno.md",
     "STA/Arduino_e_elettrologia/Elettrologia.md",
     "Italiano/quaderno.md",
     "Inglese/exercises.md",
-    "Inglese/homeworks.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
     "STA/Arduino_e_elettrologia",
     "Italiano/thisimage.png",
