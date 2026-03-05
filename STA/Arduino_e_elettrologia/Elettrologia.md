@@ -47,4 +47,4 @@ Variazione di differenza di potenziale / variazione di corrente elettrica.
 $R$ = resistenza elettrica (Misurata in Ohm $\ohm$ [Omega]).
 
 ### Circuiti elettrici
-Un circuito elettrico e' costituito da, un generatore (di tensione), un carico (resistenza), dei conduttori (e un interruttore).
+Un circuito elettrico e' costituito da, un generatore (di tensione), un carico (resistenza), dei conduttori (e un interruttore). 
