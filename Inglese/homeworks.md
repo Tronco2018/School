@@ -115,3 +115,32 @@ Nordoff Robbins is an organisation that provides music therapy to children, adul
 **es.9 pag.201**
 Here in Italy, music therapy is practice and the most known organizations are the AIM (Associazione Italiana della Musicoterapia) and the APIM (Associazione Professionale Italiana Musicoterapeuti).
 Music therapy in Italy is mostly used on psychiatric, elders, rehab patients and with autistic patients. In Italy, music therapy organizations aren't recognized as certified professions in the public health system. Talking about knowledge, to work at the AMTA you need a specific degree plus twelve-hundreds hours of internship while in Italy you just need a 3 years Master's dregree. 
+
+**es.2 pag.203**
+1. Esther Honig is a Journalist.
+2. Esther sent her photo to 40 people from 25 different countries.
+3. Not all editors made substantial edits to the photo.
+4. Half of the editors from the Philippines put makeup on her.
+
+### Homework - 5/03/2026 (Work book)
+**es.4 pag.179**
+I called you yesterday but you didn't answer.
+
+Sorry! I was at a concert.
+
+Who was playing?
+
+Carlo Cracco e i fantastici 4
+
+What was it like?
+
+The show was great - the only problem was the venue.
+
+Where was it?
+
+Piazza indipendenza, Cervignano
+
+Next month Carlo Cracco e i fantastici 4 are going to play again in Piazza Indipendenza - do you want to go together and invite some other friends?
+
+Great idea!
+
