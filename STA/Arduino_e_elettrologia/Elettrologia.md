@@ -48,3 +48,29 @@ $R$ = resistenza elettrica (Misurata in Ohm $\ohm$ [Omega]).
 
 ### Circuiti elettrici
 Un circuito elettrico e' costituito da, un generatore (di tensione), un carico (resistenza), dei conduttori (e un interruttore).
+
+### Resistenze commerciali
+In commercio esistono solo resistenze di misura limitata (1, 1.2, 1.5, 1.8, 2.2, 2.7, ecc...).
+Il valore di una resistenza viene individuato tramite una serie di "bande" colorate.
+Le resistenze possono essere a 4 bande o 5 bande.
+![[Pasted image 20260312124311.png]]
+
+**Resistenza a 4 bande**
+Bande:
+1. Prima cifra della resistenza
+2. Seconda cifra della resistenza
+3. Moltiplicatore (Potenza base 10)
+4. Tolleranza (Percentuale)
+
+**Resistenza a 5 bande**
+Bande:
+1. Prima cifra della resistenza
+2. Seconda cifra della resistenza
+3. Terza cifra della resistenza
+4. Moltiplicatore (Potenza base 10)
+5. Tolleranza (Percentuale)
+
+### Collegamento di resistenze
+Esistono due tipologie di collegamento di resistenze:
+- In serie
+- In parallelo
