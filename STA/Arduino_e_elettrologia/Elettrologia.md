@@ -53,13 +53,14 @@ Un circuito elettrico e' costituito da, un generatore (di tensione), un carico (
 In commercio esistono solo resistenze di misura limitata (1, 1.2, 1.5, 1.8, 2.2, 2.7, ecc...).
 Il valore di una resistenza viene individuato tramite una serie di "bande" colorate.
 Le resistenze possono essere a 4 bande o 5 bande.
-![[Pasted image 20260312124311.png]]
+![[Pasted image 20260312124311.png|255]]
+![[Pasted image 20260316114112.png|253]]
 
 **Resistenza a 4 bande**
 Bande:
 1. Prima cifra della resistenza
 2. Seconda cifra della resistenza
-3. Moltiplicatore (Potenza base 10)
+3. Moltiplicatore (Potenza di 10)
 4. Tolleranza (Percentuale)
 
 **Resistenza a 5 bande**
@@ -74,3 +75,23 @@ Bande:
 Esistono due tipologie di collegamento di resistenze:
 - In serie
 - In parallelo
+
+Collegandole in questi modi possiamo creare un valore di resistenza che non sono presenti in commercio.
+
+**Collegamento di resistenze in serie**
+Due o più resistenze sono collegate in serie quando vengono attraversate dalla stessa intensità di corrente (la "fine" di una resistenza viene collegata con l'"inizio" delll'altra).
+![[Pasted image 20260316115828.png]]
+$V_1$ ed $V_2$ sono la differenza di potenziale misurata rispettivamente ai capi della resistenza 1 e 2. $I$ e' l'intensità di corrente.
+$$V_1 = R_1\times I$$
+$$V_2 = R_2\times I$$
+$$V = V_1+V_2$$
+$$V=R_T\times I$$
+$$V = R_T\times I \rightarrow R_1\times I + R_2\times I$$
+$$R_T\times I = I\times (R_1 + R_2) \rightarrow R_T = R_1 + R_2$$
+Abbiamo dimostrato che quando due resistenze sono in serie, la risultante $R_T$ e' uguale alla somma dei valori delle resistenze in serie.
+
+**Collegamento di resistenze in parallelo**
+Due più resistenze sono collegate in parallelo ai loro capi si ha la stessa differenza di potenziale.
+![[Pasted image 20260316121329.png]]
+$$I = I_1 + I_2$$
+$$R_T = $$
