@@ -94,4 +94,15 @@ Abbiamo dimostrato che quando due resistenze sono in serie, la risultante $R_T$ 
 Due più resistenze sono collegate in parallelo ai loro capi si ha la stessa differenza di potenziale.
 ![[Pasted image 20260316121329.png]]
 $$I = I_1 + I_2$$
-$$R_T = $$
+$$R_T = R_1 - R_2$$
+$$I_1 = \frac{V}{R_1};\space I_2 =\frac{V}{R_2}; \space I = \frac{V}{R_T}$$
+$$\frac{V}{R_T} = \frac{V}{R_1} + \frac{V}{R_2} \rightarrow \frac{V}{R_T} = V\times(\frac{1}{R_1} + \frac{1}{R_2})$$
+$$\frac{1}{R_T} = \frac{1}{R_1} + \frac{1}{R_2}\rightarrow R_T = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2}}$$
+Quindi il reciproco di $R_T$ e' uguale ai reciproci delle resistenze presenti in parallelo sommati.
+
+**Caso particolare** (Precisamente due resistenze in parallelo)
+$$\frac{1}{R_T} = \frac{1}{R_1} + \frac{1}{R_2} \rightarrow \frac{1}{R_T}=\frac{R_2 + R_1}{R_1 \times R_2}$$
+Facciamo il reciproco (ribaltiamo)
+$$R_T = \frac{R_1\times R_2}{R_1 + R_2}$$
+
+Esercizi sul quaderno.
