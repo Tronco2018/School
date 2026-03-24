@@ -146,3 +146,12 @@ Next month Carlo Cracco e i fantastici 4 are going to play again in Piazza Indip
 
 Great idea!
 
+### Homework - 25/03/2026 (Work book)
+**pag. 205 es. 2**
+1. In Pompei.
+2. Clouds of hot gas.
+3. A young man named Pilny.
+4. Over $20 billion.
+5. The Vesuvius Observatory.
+6. 600,000 people.
+
