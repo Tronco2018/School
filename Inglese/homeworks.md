@@ -148,7 +148,7 @@ Great idea!
 
 ### Homework - 25/03/2026 (Work book)
 **pag. 205 es. 2**
-1. In Pompei.
+1. Pompei and Herculaneum.
 2. Clouds of hot gas.
 3. A young man named Pilny.
 4. Over $20 billion.
