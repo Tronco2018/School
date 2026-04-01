@@ -155,3 +155,12 @@ Great idea!
 5. The Vesuvius Observatory.
 6. 600,000 people.
 
+### Homework - 1/04/2026 (Student book)
+**p.215 es.7**
+A typical place to shop in my area is the Conad Spesa Facile. It is a convenient supermarket located in the town centre, where people can buy food, drinks, and everyday products. It is open every day and offers long opening hours, which is very useful for busy customers.
+
+Inside the store, there are many different sections, such as fresh fruit and vegetables, meat, fish, bakery, and dairy products. Customers can also find local Italian specialities and ready-made meals.   
+
+An interesting feature for British visitors is the presence of Italian regional products and the good balance between quality and price. In addition, the supermarket offers services like home self-scanning.
+
+Overall, it is a practical and well-equipped place for everyday shopping

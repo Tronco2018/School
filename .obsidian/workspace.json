@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f8fb0730ced0e26c",
@@ -197,8 +196,10 @@
   },
   "active": "da5348493d1a7bbe",
   "lastOpenFiles": [
-    "Italiano/thisimage.png",
+    "Inglese/exercises.md",
     "STA/Arduino_e_elettrologia/Elettrologia.md",
+    "Inglese/homeworks.md",
+    "Italiano/thisimage.png",
     "Pasted image 20260316121329.png",
     "Pasted image 20260316115828.png",
     "Pasted image 20260316115754.png",
@@ -206,10 +207,8 @@
     "Pasted image 20260312124311.png",
     "Pasted image 20260312124355.png",
     "Pasted image 20260312124331.png",
-    "Inglese/homeworks.md",
     "Inglese/quaderno.md",
     "Italiano/quaderno.md",
-    "Inglese/exercises.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
     "STA/Arduino_e_elettrologia",
     "STA/rappresenzatione-delle-informazioni-multimediali/img/image.png"
