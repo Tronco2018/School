@@ -103,9 +103,9 @@ Born in New York City, Edwin Howard Armstrong graduated...
 
 ### Exercises - Student book (8/04/2026)
 1. Yes.
-2. The season when forest fires are more common.
-3. Destroyed an area larger then Syria and killed at least 34 people and 1.5 bilions animals. 
+2. It's the season, between September and March, when forest fires are most likely to happen.
+3. It destroyed an area larger then Syria and killed at least 34 people and 1.5 billions animals. 
 4. Because 2019 was the hottest and driest year in Australia since 1910.
-5. They said that climate change increased the risk of forest fires by 30%
+5. They said that climate change increased the risk of forest fires by 30%.
 6. It experienced the most fires in 10 years in 2021.
 7. He says that its our responsibility to do whatever we can to prevent forest fires.
