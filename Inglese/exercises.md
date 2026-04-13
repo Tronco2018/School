@@ -109,3 +109,14 @@ Born in New York City, Edwin Howard Armstrong graduated...
 5. They said that climate change increased the risk of forest fires by 30%.
 6. It experienced the most fires in 10 years in 2021.
 7. He says that its our responsibility to do whatever we can to prevent forest fires.
+
+### Appunti - Ed. Civica (13/04/2026)
+**Documentario "The True Cost A Documentary Film"**
+Fast faction e' un fenomeno molto comune in tutto il mondo e consiste nel fare vestiti che inquinano, durano poco e sfrutta la mano d'opera dove costa poco. La fast faction e' diffusa a causa della moda e di quello che si vuole mostrare agli altri. 
+Fino agli anni '60 gli USA producevano il 90% dei loro vestiti, ora solo il 3%. Questo perché la mano d'opera dei paesi in sviluppo permette di diminuire i prezzi e quindi attirando più clienti. Il problema e' che essendo low cost non ce più il concetto di riparare, essendo fatti di materiali cheap succede spesso, e quindi vengono buttati via inquinando l'ambiente e sprecando risorse.
+I prezzi dei vestiti scendono anche perché ormai le aziende fanno a gara a chi ha i prezzi più bassi e quindi quelli con i prezzi più alti vanno out of business.
+La manutenzione delle fabbriche sono quasi nulle e i rischi altissimi, fabbriche intere crollano perché serve produrre continuamente, creando disastri.
+Il Bangladesh e' il secondo esportatore di capi vestiari dopo la Cina perché riescono ad avere dei prezzi veramente bassi, allo stesso momento pero' migliaia di persone muoiono ogni anno a causa di questa filiera produttiva guadagnando solo $2 al giorno.
+Le pubblicità moderne cercano inoltre di convincere il consumatore a comprare il prodotto legandolo ad uno status sociale a cui esso aspira, cercano di comunicare il fatto che comprando quel prodotto tu possa sistemare problemi sociali.
+Un articolo scrive che ci sono due tipi di prodotti, quelli che si consumano e quelli che si usano per tanto tempo tipo macchine e che il consumismo rende beni di consumo vestiti per esempio, perché costano cosi poco che comprare un capo nuovo costa di meno che ripararlo.
+Queste fabbriche nei paesi meno sviluppati inquinano il pianeta con gas e metalli pesanti rilasciati in acqua e in atmosfera, mettendo in pericolo tutti. La moda e' la seconda filiera più inquinante dopo il petrolio al mondo. L'inquinamento non e' compreso nel conteggio totale del costo del prodotto finale, viene contato solo il prezzo e il tempo necessario.
