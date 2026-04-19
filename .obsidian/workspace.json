@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/exercises.md",
+                "file": "Inglese/homeworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercises"
+              "title": "homeworks"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "da5348493d1a7bbe",
   "lastOpenFiles": [
-    "Inglese/quaderno.md",
     "Inglese/exercises.md",
+    "Inglese/quaderno.md",
     "Inglese/homeworks.md",
     "STA/Arduino_e_elettrologia/Elettrologia.md",
     "Italiano/thisimage.png",

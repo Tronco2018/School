@@ -164,3 +164,14 @@ Inside the store, there are many different sections, such as fresh fruit and veg
 An interesting feature for British visitors is the presence of Italian regional products and the good balance between quality and price. In addition, the supermarket offers services like home self-scanning.
 
 Overall, it is a practical and well-equipped place for everyday shopping
+
+### Homework - 20/04/2026 (Student Book)
+**p.219 es.16**
+1. If water pollution continues, fish will die.
+2. If rubbish in landfills continues the ground will become polluted.
+3. If deforestation continues, forests will become smaller and animal will lose their homes.
+4. If the thinning of the ozone layer continues, harmful UV light will reach earth.
+5. If air pollution continues, it will become more difficult to breathe.
+6. If the rise of the endangered species continues, more species will become extinct.
+7. If emission of greenhouse gases continues, extreme weather events will become more common.
+8. If glaciers keep melting, the sea levels are going to rise.
