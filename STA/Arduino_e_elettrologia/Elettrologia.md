@@ -106,3 +106,18 @@ Facciamo il reciproco (ribaltiamo)
 $$R_T = \frac{R_1\times R_2}{R_1 + R_2}$$
 
 Esercizi sul quaderno.
+
+### Seconda legge di Ohm
+La resistenza di un filo conduttore e' direttamente proporzionale al materiale di cui e' composto il filo e alla sua lunghezza, mentre e' inversamente proporzionale alla sua sezione (diametro).
+$$R=\rho\times\frac{l}{S}$$ 
+
+- $\rho$ => e' la resistività del materiale
+- $S$ => e' la sezione del cavo
+- $l$ => e' la lunghezza del cavo
+
+**Esempio**
+Qual e' la resistenza di un filo di rame di $10km$ avente una sezione di $10mm^2$
+$$
+\rho Cu = 0.0168\times10^{-6}\Omega\times m
+$$$$R=0.0168\times10^{-6}\times\frac{10^4}{10^{-7}}\rightarrow0.0160\times10^3\Omega\rightarrow16.8\Omega$$
+Es. su quaderno.
