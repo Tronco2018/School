@@ -175,3 +175,7 @@ Overall, it is a practical and well-equipped place for everyday shopping
 6. If the rise of the endangered species continues, more species will become extinct.
 7. If emission of greenhouse gases continues, extreme weather events will become more common.
 8. If glaciers keep melting, the sea levels are going to rise.
+### Homework - 29/04/2026 (Student Book)
+**pag.225 es.9**
+My city, Cervignano, is already quite green. Begin in the middle of nowhere its not hard to find trees or vegetation and stuff like that, we also have a train station and passenger trains are usually electric-powered! We do also have a recycling area for both e-waste and oversized/special waste. The city also has quite a few bike lanes and travelling by other means as of bike or by foot is very encouraged.
+To make the city greener tho we could implement, just like other city around the area, electric cars charging stations or electric scooters!
