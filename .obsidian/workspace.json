@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/homeworks.md",
+                "file": "STA/Arduino_e_elettrologia/Elettrologia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homeworks"
+              "title": "Elettrologia"
             }
           }
         ]
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da5348493d1a7bbe",
+  "active": "138935d23e1a57d3",
   "lastOpenFiles": [
     "Inglese/homeworks.md",
     "Inglese/quaderno.md",

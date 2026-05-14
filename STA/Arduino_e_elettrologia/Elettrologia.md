@@ -41,7 +41,7 @@ Potenza {W} = Differenza di potenziale {V} * Intensità di corrente {A}
 
 ### Resistenza elettrica
 Si parla di resistenza elettrica quando un materiale tende ad opporsi al movimento delle cariche elettriche.
-Prima legge di Ohm
+### Prima legge di Ohm
 $$R=\frac{\Delta{V}}{\Delta{I}}$$
 Variazione di differenza di potenziale / variazione di corrente elettrica.
 $R$ = resistenza elettrica (Misurata in Ohm $\ohm$ [Omega]).
