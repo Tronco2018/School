@@ -20,4 +20,4 @@ lesson content
 ---
 
 ## Homework
-The homework page is [here](homeworks.md)
+The homework page is [here](Inglese/2025-2026/homeworks.md)
