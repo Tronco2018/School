@@ -27,3 +27,9 @@
 6. .
 7. They have nothing to be ashamed of
 8. Are you worried about moving to a new city?
+
+**p. 11 es. 5**
+1. Who died from a tiger attack? Why was Matthew so scared of tigers?
+2. Who protects the tigers? What do the National Park rangers try to do?
+3. Who saw the boy? Who did William see?
+4. How did the sheep die? What killed the sheep?
