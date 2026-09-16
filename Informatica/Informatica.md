@@ -6,4 +6,21 @@
 # Caratteristiche di un algoritmo
 Un algoritmo deve essere:
 - **Generale**: deve risolvere una categoria di problemi, non solo una parte.
-- 
+
+# Descrizione di un algoritmo
+- liguaggi di programmazione
+- pseudo codice
+- diagramma di flusso
+
+# Diagrammi di flusso
+Utilizziamo le figure geometriche per contenere le istruzioni
+
+
+_insert image here_
+
+# Costrutti
+
+_insert image here_
+
+# Teorema di Bohm-Jacopini
+Qualsiasi problema sia risolvibile lo si può' implementare con le strutture di sequenza, selezione e iterazione.
