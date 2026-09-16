@@ -45,3 +45,12 @@ f. 1
 4. I've seen it 3 times
 5. No one, I don't go to the cinema
 6. Never
+
+**pag. 186 es 6**
+1. g
+2. c
+3. f
+4. e
+5. b
+6. d
+7. a
