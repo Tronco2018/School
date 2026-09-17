@@ -33,3 +33,10 @@
 2. Who protects the tigers? What do the National Park rangers try to do?
 3. Who saw the boy? Who did William see?
 4. How did the sheep die? What killed the sheep?
+
+**p. 15 es. 4**
+1. Nature has been very important in Korean culture for hundreds of years.
+2. But Koreans work very long hours, and stress levels among workers and students went up in recent years.
+3. The government believes that the answer can be found in "healing forests": places of natural beauty where people go to relax, to reconnect with nature and to rest.
+4. There are currently 37 healing forests in Korea, and they are becoming very popular.
+5. People often go there to walk, learn about plants, do yoga or just relax under the trees.
