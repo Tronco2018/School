@@ -54,3 +54,20 @@ f. 1
 5. b
 6. d
 7. a
+
+**pag. 187 es 8**
+1. Water freezes at 0 degrees Celsius.
+2. The phone is ringing. Can you answer it?
+3. If it isn't raining she usually walks to work.
+4. I'm bored. I'm going to watch TV.
+5. Sorry, Fred, I'm coming.
+6. Koala bears sleep for more then twenty hours a day.
+7. I've lived here all my life
+8. I'm feeding the cat while John and Angie are on holiday this month.
+
+**es. 9**
+1. No way! It's always breaking down.
+2. I don't blame her. The're always interfering.
+3. Typical. He's always asking for money. 
+4. Where are they? You're always forgetting to bring them.
+5. I'm not surprised. She's always getting distracted.
