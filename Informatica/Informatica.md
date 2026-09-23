@@ -15,12 +15,11 @@ Un algoritmo deve essere:
 # Diagrammi di flusso
 Utilizziamo le figure geometriche per contenere le istruzioni
 
-
-_insert image here_
+![[326.jpg]]
 
 # Costrutti
 
-_insert image here_
+![[327.jpg]]
 
 # Teorema di Bohm-Jacopini
 Qualsiasi problema sia risolvibile lo si può' implementare con le strutture di sequenza, selezione e iterazione.
