@@ -8,7 +8,7 @@ Un algoritmo deve essere:
 - **Generale**: deve risolvere una categoria di problemi, non solo una parte.
 
 # Descrizione di un algoritmo
-- liguaggi di programmazione
+- linguaggi di programmazione
 - pseudo codice
 - diagramma di flusso
 
@@ -23,3 +23,4 @@ Utilizziamo le figure geometriche per contenere le istruzioni
 
 # Teorema di Bohm-Jacopini
 Qualsiasi problema sia risolvibile lo si può' implementare con le strutture di sequenza, selezione e iterazione.
+
