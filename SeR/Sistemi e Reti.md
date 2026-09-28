@@ -11,6 +11,12 @@
 $$V_{[V]} = I_{[A]} \times R_{[\Omega]}$$
 **Forma più corretta per esprimerla**
 $$I_{[A]} = \frac {V_{[V]}} {R_{[\Omega]}}$$
+**_28/09/2026_**
+# Diversi tipi di sistemi
+**Sistema naturale**: Sistema indipendente dall'uomo (es. corpo umano).
+**Sistema artificiale**: Diventa un sistema dall'interazione del corpo umano (es. computer)
+**Sistema misto**: Un orto che presenta un sistema di irrigazione o una serra.
 
-
-
+### La distinzione dei sistemi avviene anche tramite il tempo: 
+**Sistemi discreti**: Posso definire lo stato del sistema tramite valori definiti per tutto il tempo in cui esiste. (Es. un circuito con un interruttore posso definire sempre che lo stato può essere acceso o spento sempre)
+**Sistemi continui**: Non può passare da un valore definito ad un altro in un singolo istante di tempo.
