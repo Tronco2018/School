@@ -40,3 +40,19 @@
 3. The government believes that the answer can be found in "healing forests": places of natural beauty where people go to relax, to reconnect with nature and to rest.
 4. There are currently 37 healing forests in Korea, and they are becoming very popular.
 5. People often go there to walk, learn about plants, do yoga or just relax under the trees.
+
+_30/09/2026_
+**p. 17 es 10**
+1. One thing that I loved about the film was the plot
+2. I didn't really found anything disappointing in this movie
+3. What made me really think was how creative they were back then
+
+**p.190 es 4**
+1. Iceland
+2. Denmark
+3. Central African Republic
+4. Haiti
+5. Finland
+6. New Zealand
+7. Botswana
+8. Canada
