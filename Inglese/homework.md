@@ -71,3 +71,14 @@ f. 1
 3. Typical. He's always asking for money. 
 4. Where are they? You're always forgetting to bring them.
 5. I'm not surprised. She's always getting distracted.
+
+_01/10/2026_
+**p.192 es 1**
+1. interesting
+2. bored
+3. embarassed
+4. surprising
+5. confusing
+6. annoyed
+7. depressing
+8. relaxing
