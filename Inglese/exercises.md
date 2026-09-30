@@ -47,7 +47,7 @@ _30/09/2026_
 2. I didn't really found anything disappointing in this movie
 3. What made me really think was how creative they were back then
 
-**p.190 es 4**
+**p.189 es 4**
 1. Iceland
 2. Denmark
 3. Central African Republic
@@ -56,3 +56,13 @@ _30/09/2026_
 6. New Zealand
 7. Botswana
 8. Canada
+
+_30/09/2026_
+
+**p.190 es. 6**
+1. cruise
+2. excursion
+3. flight
+4. ride
+5. destination
+6. expedition
