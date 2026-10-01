@@ -12,3 +12,5 @@
 - 5.6
 - 6.8
 - 8.6
+
+La serie comprende anche i multipli del 10 di questi valori, es: 3.3, 33, 330, 3.3k ecc...
