@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ace9c03fa1b135d1",
+        "id": "173e3510f435f915",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b3d42199f8babb",
+            "id": "06227cb67bebb956",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/homework.md",
+                "file": "LSeR/Laboratorio Sistemi e Reti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homework"
-            }
-          },
-          {
-            "id": "b21d4621ecb3d036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LTEL/LTEL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LTEL"
+              "title": "Laboratorio Sistemi e Reti"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f8fb0730ced0e26c",
@@ -211,13 +197,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b21d4621ecb3d036",
+  "active": "06227cb67bebb956",
   "lastOpenFiles": [
-    "Inglese/homework.md",
+    "Pasted image 20261001124449.png",
+    "Pasted image 20261001124245.png",
+    "Pasted image 20261001124212.png",
+    "Pasted image 20261001124044.png",
+    "Pasted image 20261001123646.png",
+    "orario-v3.jpg",
+    "LSeR/Laboratorio Sistemi e Reti.md",
+    "SeR/Sistemi e Reti.md",
+    "LSeR",
     "LTEL/LTEL.md",
+    "Inglese/homework.md",
     "LTEL",
     "Inglese/exercises.md",
-    "SeR/Sistemi e Reti.md",
     "327.jpg",
     "326.jpg",
     "Informatica/Informatica.md",
@@ -231,11 +225,6 @@
     "Italiano/thisimage.png",
     "Pasted image 20260316121329.png",
     "Pasted image 20260316115828.png",
-    "Pasted image 20260316115754.png",
-    "Pasted image 20260316114112.png",
-    "Pasted image 20260312124311.png",
-    "Pasted image 20260312124355.png",
-    "Pasted image 20260312124331.png",
     "Italiano/quaderno.md",
     "STA/rappresenzatione-delle-informazioni-multimediali/The fog.md",
     "STA/Arduino_e_elettrologia"
