@@ -81,4 +81,4 @@ _01/10/2026_
 5. confusing
 6. annoyed
 7. depressing
-8. relaxing
+8. relaxed
