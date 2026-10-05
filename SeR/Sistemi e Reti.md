@@ -24,3 +24,11 @@ $$I_{[A]} = \frac {V_{[V]}} {R_{[\Omega]}}$$
 # Staticità di un sistema
 - **Sistema statico**: Il cui funzionamento non dipende da un qualcosa di esterno, per esempio una ROM. Il sistema dove i valori non possono variare.
 - **Sistema dinamico**: Il cui funzionamento puo' dipendere da un input esterno, esempio la RAM. Quando il suo stato non e' definito ma soggetto a variazioni, temporanee e reversibili.
+
+# Sistemi aperti o chiusi
+- **Sistema aperto**: Il suo funzionamento vive della relazione con l'esterno.
+- **Sistema chiuso**: Un sistema che non comunica/scambia informazioni con l'esterno.
+
+# Sistemi deterministico o probabilistico
+- **Sistema deterministico**: Un sistema dove per lo stesso input, l'output sara' sempre uguale.
+- **Sistema probabilistico**: Un sistema dove per lo stesso input, output non e' certo.
