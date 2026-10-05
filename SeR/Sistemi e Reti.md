@@ -29,6 +29,10 @@ $$I_{[A]} = \frac {V_{[V]}} {R_{[\Omega]}}$$
 - **Sistema aperto**: Il suo funzionamento vive della relazione con l'esterno.
 - **Sistema chiuso**: Un sistema che non comunica/scambia informazioni con l'esterno.
 
-# Sistemi deterministico o probabilistico
-- **Sistema deterministico**: Un sistema dove per lo stesso input, l'output sara' sempre uguale.
+# Sistemi deterministici o probabilistici
+- **Sistema deterministico**: Un sistema dove per lo stesso input, l'output sara' sempre uguale. Quindi un sistema prevedibile.
 - **Sistema probabilistico**: Un sistema dove per lo stesso input, output non e' certo.
+
+# Sistemi combinatori o sequenziali
+- **Sistema combinatorio**: Sistemi che non hanno una memoria.
+- **Sistema sequenziale**: Sistemi che hanno una memoria.
