@@ -39,3 +39,13 @@ $$I_{[A]} = \frac {V_{[V]}} {R_{[\Omega]}}$$
 
 Todo: definire il personal computer come un sistema, perche lo e'? Che sistema e'?
 		+ ricerca su sistema operativo, cos'e?
+
+**Personal computer**: Il personal computer e' un sistema artificiale, discreto, dinamico, aperto, deterministico e sequenziale.
+
+## Ricerca sistema operativo
+Un sistema operativo si può definire come artificiale, discreto, dinamico, aperto, deterministico e sequenziale. Consiste di molteplici sottosistemi, ognuno con un ruolo definito per arrivare ad un obiettivo comune come eseguire un programma, comunicare con periferiche o mostrare qualcosa a schermo.
+
+### Kernel
+Il kernel e' quella parte del sistema operativo che comunica effettivamente con l'hardware e gestisce tutte le componentistiche a basso livello del sistema operativo. 
+
+Il 
