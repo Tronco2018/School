@@ -36,3 +36,6 @@ $$I_{[A]} = \frac {V_{[V]}} {R_{[\Omega]}}$$
 # Sistemi combinatori o sequenziali
 - **Sistema combinatorio**: Sistemi che non hanno una memoria.
 - **Sistema sequenziale**: Sistemi che hanno una memoria.
+
+Todo: definire il personal computer come un sistema, perche lo e'? Che sistema e'?
+		+ ricerca su sistema operativo, cos'e?
