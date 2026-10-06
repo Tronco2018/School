@@ -42,12 +42,12 @@ $$I_{[A]} = \frac {V_{[V]}} {R_{[\Omega]}}$$
 **Personal computer**: Il personal computer e' un sistema artificiale, discreto, dinamico, aperto, deterministico e sequenziale.
 
 ## Ricerca sistema operativo
-Un sistema operativo si può definire come artificiale, discreto, dinamico, aperto, deterministico e sequenziale. Consiste di molteplici sottosistemi, ognuno con un ruolo definito per arrivare ad un obiettivo comune come eseguire un programma, comunicare con periferiche o mostrare qualcosa a schermo.
+Un sistema operativo si può definire come artificiale, discreto, dinamico, aperto, deterministico e sequenziale. Consiste di molteplici sottosistemi, ognuno con un ruolo definito al fine di arrivare ad un obiettivo comune come eseguire un programma, comunicare con periferiche o mostrare qualcosa a schermo.
 ### Kernel
-Il kernel e' quella parte del sistema operativo che comunica effettivamente con l'hardware e gestisce tutte le componentistiche a basso livello del sistema operativo, per comunicarci si usano le syscall.
+Il kernel e' quella parte del sistema operativo che comunica effettivamente con l'hardware e gestisce tutte le componentistiche a basso livello del sistema operativo, per comunicarci si usano le syscall, un modo di accedere all'hardware senza poter danneggiare la macchina.
 
 ### La divisione
-Il sistema operativo e' diviso in due parti principali, il kernel-space e lo user space, più nel dettaglio il sistema operativo e' diviso ad anelli di permessi (rings).
+Il sistema operativo e' diviso in due parti principali, il kernel-space e lo user-space, più nel dettaglio il sistema operativo e' diviso ad anelli di permessi (rings).
 
 ![[Pasted image 20261006091117.png|465]]
 
