@@ -46,12 +46,12 @@ Todo: definire il personal computer come un sistema, perche lo e'? Che sistema e
 Un sistema operativo si può definire come artificiale, discreto, dinamico, aperto, deterministico e sequenziale. Consiste di molteplici sottosistemi, ognuno con un ruolo definito per arrivare ad un obiettivo comune come eseguire un programma, comunicare con periferiche o mostrare qualcosa a schermo.
 
 ### Kernel
-Il kernel e' quella parte del sistema operativo che comunica effettivamente con l'hardware e gestisce tutte le componentistiche a basso livello del sistema operativo. 
+Il kernel e' quella parte del sistema operativo che comunica effettivamente con l'hardware e gestisce tutte le componentistiche a basso livello del sistema operativo, per comunicarci si usano le syscall.
 
 ### La divisione
-Il sistema operativo e' diviso in due parti principali, il kernel-space e lo user space, si potrebbe anche dire che il sistema operativo e' generalmente diviso ad anelli di permessi.
+Il sistema operativo e' diviso in due parti principali, il kernel-space e lo user space, più nel dettaglio il sistema operativo e' diviso ad anelli di permessi (rings).
 
 ![[Pasted image 20261006091117.png|465]]
 
 ### Driver
-I driver sono l'unica parte introducibile dall'utente sul sistema che può comunicare direttamente con il kernel e con l'hardware. Questi, se scritti male, posso portare ad un crash del sistema e possono anche essere pericolosi se provenienti da siti non ufficiali.
+I driver sono l'unica parte introducibile dall'utente sul sistema che può comunicare quasi direttamente con l'hardware. Questi, se scritti male, posso portare ad un crash del sistema oppure essere pericolosi se provenienti da siti non ufficiali dei produttori.
