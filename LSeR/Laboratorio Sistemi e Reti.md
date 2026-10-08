@@ -1,4 +1,4 @@
-'_01/10/2026_
+_01/10/2026_
 # Connettori
 I connettori sono tutti codificati: sono fatti in modo tale dal non poter essere messi al contrario.
 
