@@ -1,4 +1,4 @@
-_01/10/2026_
+'_01/10/2026_
 # Connettori
 I connettori sono tutti codificati: sono fatti in modo tale dal non poter essere messi al contrario.
 
@@ -47,9 +47,10 @@ La scheda madre ha diverse parti usate per connettere componenti e parti fondame
 - **Chip BIOS/UEFI**: Chip dove risiede il BIOS/UEFI che gestisce la prima parte dell'avvio del computer e la configurazione a basso livello sulla scheda.
 - **Slot di espansione**: Servono a collegare carte di espansione come schede video o schede di rete.
 
+![[83.png]]
 # Chipset
 Il chipset e' quella parte del sistema che mette in comunicazione il processore e le altre componenti del computer attraverso i due bridge integrati dentro esso, la loro posizione e' strategica.
-![[Pasted image 20261001131701.png]]
+![[84.png]]
 ## Northbridge
 Parte più vicina alla CPU, gestisce i dispositivi che necessitano una performance più elevata come RAM e slot PCI di priorità.
 
@@ -60,3 +61,15 @@ Parte più lontana dalla CPU, si occupa di gestire i componenti meno performanti
 Ci sono diversi standard di fattori di forma, sia per schede madri, che per alimentatori che per schede madri e sono in standard ATX, DTX e ITX.
 ![[Pasted image 20261001132435.png|453]]
 
+# CPU e sistemi di raffreddamento
+La CPU (Central Processing Unit) e' il componente "principale" se integrato con altri componenti e il suo compito e' eseguire istruzioni.
+
+**Diversi tipi di connettori del processore (socket):**
+Il connettore e' _codificato_, questo vuol dire che la CPU puo' essere inserita in un solo modo. Il socket usa il principio Zero Impression Force (ZIF), quindi non bisogna fare forza per inserirli. 
+### Pin Grid Array  (PGA)
+In questa configurazione i pin escono dalla CPU mentre il socket presenta dei buchi ed una leva usata per bloccarli dentro.
+![[85.png]]
+
+## Land Grid Array (LGA)
+In questa configurazione i pin sono posizionati sul socket mentre la CPU presenta dei pad per avere un contatto al tocco con i pin del socket. La leva in questo caso blocca la posizione della CPU con la scocca metallica che possiede.
+![[86.png]]
