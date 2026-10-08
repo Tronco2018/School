@@ -66,3 +66,19 @@ _30/09/2026_
 4. ride
 5. destination
 6. expedition
+
+_08/10/2026_
+**p. 27 es. 8**
+1. C
+2. A
+3. B
+4. D
+
+**es. 10/12**
+Finale: I hadn't expected to have such an exciting journey.
+
+A few years ago I went to Iceland with my parents. The trip consisted of hiking and backpacking trough the mountains and glaciers of the island, arrive at the end of the trail and then get a car to explore the more "touristic" locations.
+
+The backpacking part was the one I liked the most even tho it was the hardest. The backpacks we had were very heavy and we walked for most of the day but the views were amazing. Walking in the middle of nowhere with the only artificial thing begin the trail poles painted in red was really an amazing experience.
+
+When we arrived at the and of the trail, we found one of the only actual camping spot in a 70 km radius if not more. We were so happy about the trip. I really hadn't expected to have such an exciting journey. 
