@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f8fb0730ced0e26c",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,22 +200,22 @@
   },
   "active": "06227cb67bebb956",
   "lastOpenFiles": [
+    "Pasted image 20261008133946.png",
+    "Pasted image 20261008133815.png",
+    "Pasted image 20261008133719.png",
+    "Pasted image 20261008133613.png",
+    "Pasted image 20261008131919.png",
+    "Pasted image 20261008131832.png",
+    "Pasted image 20261008131722.png",
+    "Pasted image 20261008131618.png",
     "Pasted image 20261008125042.png",
     "Pasted image 20261008124924.png",
     "Pasted image 20261008124325.png",
-    "86.png",
-    "85.png",
-    "84.png",
-    "83.png",
     "LTEL/LTEL.md",
     "Inglese/exercises.md",
-    "orario-v3.jpg",
     "Inglese/homework.md",
     "SeR/Sistemi e Reti.md",
-    "Pasted image 20261006091117.png",
     "LSeR/Laboratorio Sistemi e Reti.md",
-    "Pasted image 20261001132435.png",
-    "Pasted image 20261001131701.png",
     "LSeR",
     "LTEL",
     "Informatica/Informatica.md",

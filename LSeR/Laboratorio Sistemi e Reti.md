@@ -89,3 +89,76 @@ I sistemi di raffreddamento della CPU si dividono principalmente in 3 tipi:
 >![[Pasted image 20261008125042.png]]
 
 # Memoria
+## Tipi di memoria
+Esistono generalmente due tipi di memoria che vengono utilizzate all'interno di un computer.
+
+### ROM (Read-only memory)
+>La memoria ROM e' una memoria **non volatile** che viene utilizzata generalmente per mantenere dati anche dopo lo spegnimento del computer. Generalmente viene scritta in fabbrica e che non puo' essere sovrascritta.
+### RAM (Random access memory)
+>La memoria RAM e' una memoria **volatile** ad accesso casuale. Viene usata per eseguire programmi, e' scrivibile e molto veloce.
+
+## Tipi di ROM
+
+### ROM
+>Questa e' una memoria read-only scritta in fabbrica e non puo' essere cambiata. E' usata per funzioni generali read-only
+>![[Pasted image 20261008131618.png]]
+
+### PROM
+>Questi tipi di ROM escono dalla fabbrica vuote ma possono essere scritte solo una volta, successivamente diventano read-only.
+>![[Pasted image 20261008131722.png]]
+
+### EPROM
+>Questo tipo di memorie può essere cancellato ma solo posizionandola sotto un forte raggio ultravioletto. In definitiva, possono essere riprogrammate, ma non facilmente.
+>![[Pasted image 20261008131832.png]]
+
+### EEPROM
+>Questo tipo di memoria e' il piu' moderno e puo essere letta e riscritta completamente in modo elettronico. Questi tipi di memoria possono anche essere chiamate _flash_.
+>![[Pasted image 20261008131919.png]]
+
+## Tipi di RAM
+
+### RAM dinamica
+>Vecchia tecnologia degli anni '90. Usate per memoria di sistema, guardualmente scaricano l'energia e devono essere costantemente aggiornate.
+
+### RAM statica
+>Richiede alimentazione costante per funzionare, usate come cache, bassi consumi, piu' veloci delle RAM dinamiche e costano di piu.
+
+### SDRAM
+>RAM rinamiche che operano in sincrono con i banchi di memoria. Possono gestire istruzioni in parallelo e sono piu' veloci rispetto alle precedenti.
+
+### DDR SDRAM
+>RAM dinamiche (Double Data Rate Syncrounous Dynamic RAM), trasportano dati due volte piu veloci delle SDRAM normali, possono supportare due scritture e due letture ogni ciclo del clock. Il connettore ha 184 pin, usano 2.5V (Famiglia DDR2, DDR3, DDR4) 
+
+### DDR2 SDRAM
+>Trasferisce due volte piu veloce di SDRAM, funziona a velocita' di clock maggiori (533 MHz vs. DDR a 200MHz). Ha 240 pin e usa 1.8V
+
+### DDR3 SDRAM
+>Raddoppia la velocita del clock di DDR2, funziona a 1.5V, genera meno calore, funziona fino a 800MHz ed ha un connettore a 240 pin.
+
+### DDR4 SDRAM
+>Possiede quattro volte la capacita di DDR3, consuma 1.2V, funziona fino a 1600MHz, ha 288 pin.
+
+### GDDR SDRAM
+>Graphics DDR SDRAM, creata per le schede grafiche, usata assieme alla GPU, famiglia GDDR, GDDR2, GDDR3, GDDR4, GDDR5. La performance aumenta per ogni step.
+
+### DDR5
+>Piu del doppio della velocita dei moduli DDR4, 4x la capacita, consuma 1.1V, connettore a 288 pin ma con un pattern diverso da quello del DDR4, la grandezza massima per modulo e' 128GB
+
+## Moduli di memoria
+Ogni banco di memoria possiede i moduli effettivi sulla scheda:
+### DIP
+> Dual Inline Package e' un modulo di memoria individuale, generalmente i DIP hanno 2 linee di pin utilizzati per essere attaccati alla scheda madre.
+> ![[Pasted image 20261008133613.png]]
+
+### SIMM
+> Single Inline Memory Module e' una piccola PCB che contiene piu moduli di memoria. Hanno connettori a 30 o 72 pin a seconda della configurazione.
+> ![[Pasted image 20261008133719.png]]
+
+### DIMM
+> Dual Inline Memory Module e' una PCB che tiene SDDRAM, DDR SDDRAM ecc... fino alla DDR4. Ci sono da 168 pin a 288.
+> ![[Pasted image 20261008133815.png]]
+
+### SODIMM
+> Small Outline DIMM e' una piccola versione della DIMM, generalmente usata in portatili, stampanti e device dove lo spazio e' chiave.
+> ![[Pasted image 20261008133946.png]]
+
