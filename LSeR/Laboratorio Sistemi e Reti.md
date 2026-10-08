@@ -61,15 +61,28 @@ Parte più lontana dalla CPU, si occupa di gestire i componenti meno performanti
 Ci sono diversi standard di fattori di forma, sia per schede madri, che per alimentatori che per schede madri e sono in standard ATX, DTX e ITX.
 ![[Pasted image 20261001132435.png|453]]
 
-# CPU e sistemi di raffreddamento
+# CPU
 La CPU (Central Processing Unit) e' il componente "principale" se integrato con altri componenti e il suo compito e' eseguire istruzioni.
 
 **Diversi tipi di connettori del processore (socket):**
 Il connettore e' _codificato_, questo vuol dire che la CPU puo' essere inserita in un solo modo. Il socket usa il principio Zero Impression Force (ZIF), quindi non bisogna fare forza per inserirli. 
 ### Pin Grid Array  (PGA)
-In questa configurazione i pin escono dalla CPU mentre il socket presenta dei buchi ed una leva usata per bloccarli dentro.
-![[85.png]]
+>In questa configurazione i pin escono dalla CPU mentre il socket presenta dei buchi ed una leva usata per bloccarli dentro.
+>![[85.png]]
 
 ## Land Grid Array (LGA)
-In questa configurazione i pin sono posizionati sul socket mentre la CPU presenta dei pad per avere un contatto al tocco con i pin del socket. La leva in questo caso blocca la posizione della CPU con la scocca metallica che possiede.
-![[86.png]]
+>In questa configurazione i pin sono posizionati sul socket mentre la CPU presenta dei pad per avere un contatto al tocco con i pin del socket. La leva in questo caso blocca la posizione della CPU con la scocca metallica che possiede.
+>![[86.png]]
+
+# Sistemi di raffreddamento
+I sistemi di raffreddamento della CPU si dividono principalmente in 3 tipi: 
+## Sistema passivo
+>E' un sistema che non ha parti in movimento, come quello rappresentato in figura. Generalmente questi sistemi sono montati a sbalzo, cioè montato perpendicolarmente alla scheda madre.
+>![[Pasted image 20261008124325.png]]
+
+## Sistema attivo
+>E' un dissipatore che ha una parte attiva/in movimento, come una ventola per spostare il caldo e portare aria fresca. In questo caso il dissipatore può
+ avere una dimensione più ridotta.![[Pasted image 20261008124924.png]]
+## Sistema a liquido (ibrido)
+>I dissipatori a liquido sono chiamati ibridi perché la parte di contatto della CPU e' passiva mentre il radiatore raffredda il liquido e viene spinto sulla parte passiva.
+>![[Pasted image 20261008125042.png]]
