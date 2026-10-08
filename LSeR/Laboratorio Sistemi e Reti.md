@@ -83,6 +83,9 @@ I sistemi di raffreddamento della CPU si dividono principalmente in 3 tipi:
 ## Sistema attivo
 >E' un dissipatore che ha una parte attiva/in movimento, come una ventola per spostare il caldo e portare aria fresca. In questo caso il dissipatore può
  avere una dimensione più ridotta.![[Pasted image 20261008124924.png]]
+
 ## Sistema a liquido (ibrido)
 >I dissipatori a liquido sono chiamati ibridi perché la parte di contatto della CPU e' passiva mentre il radiatore raffredda il liquido e viene spinto sulla parte passiva.
 >![[Pasted image 20261008125042.png]]
+
+# Memoria
