@@ -82,3 +82,24 @@ _01/10/2026_
 6. annoyed
 7. depressing
 8. relaxed
+
+_13/10/2026_
+**p. 197 es. 7**
+1. What did they decided to do?
+2. What time did you go to the gym yesterday?
+3. Whose daughter knows how to play the piano?
+4. How many friends did she invite to the party?
+5. What did he ask Jenna?
+6. What made you feel embarrassed when you were a child?
+7. How many students passed the exam?
+8. What time did you get up this morning?
+
+**es. 8**
+1. I fell asleep in class yesterday. It was so boring.
+2. Last week he studied at the library for eight hours every day. He was really exhausted.
+3. Have you ever been on such an exciting trip?
+4. Leopold came home at midnight yesterday. His mother was very worried.
+5. They were shocked when they heard the news.
+6. Mr Pendleton just told Karina that she didn't win the award. It's such disappointing news.
+7. He didn't tell me his secret until today. It's amazing that he's going to Morocco for the summer!
+8. Have you ever played in a band in your life?
