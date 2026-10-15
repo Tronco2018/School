@@ -162,3 +162,20 @@ Ogni banco di memoria possiede i moduli effettivi sulla scheda:
 > Small Outline DIMM e' una piccola versione della DIMM, generalmente usata in portatili, stampanti e device dove lo spazio e' chiave.
 > ![[Pasted image 20261008133946.png]]
 
+## Single-Sided, Double-Sided e Multi-channel
+I moduli di memoria possono essere Single-Sided, Double-Sided e Multi-channel. I moduli double sided possiedono chip di memoria da entrambi i lati del banco. La velocita' e' decretata dai channel, single channel e' la memoria standard, quindi tutti gli slot RAM sono addressati allo stesso momento. Dual channel invece aggiunge un secondo canale per riuscire a processare un secondo modulo allo stesso momenti.
+
+## Memoria cache
+La memoria piu' veloce e' tipicamente la SRAM (RAM statica) che e' una memoria di cache incaricata di contenere i dati e le istruzioni piu' usate della CPU. 
+Ci sono 3 tipi di memorie cache:
+### Cache L1
+>La memoria cache L1 e' interna e integrata nella CPU. Differenti CPU possono avere diverse quantita' di cache L1
+
+### Cache L2
+>La memoria cache L2 e' esterna ed era generalmente montata sulla scheda madre. Ora le memorie L2 sono integrate nella CPU
+
+### Cache L3
+>La cache L3 viene usata in alcune workstation professionali o CPU dei server.
+
+## Errori di memoria
+Gli errori di memoria accadono quando i dati non sono immagazinati correttamente nei chip. Per rilevare questi errori si usano diversi metodi.
