@@ -82,3 +82,11 @@ A few years ago I went to Iceland with my parents. The trip consisted of hiking 
 The backpacking part was the one I liked the most even tho it was the hardest. The backpacks we had were very heavy and we walked for most of the day but the views were amazing. Walking in the middle of nowhere with the only artificial thing begin the trail poles painted in red was really an amazing experience.
 
 When we arrived at the and of the trail, we found one of the only actual camping spot in a 70 km radius if not more. We were so happy about the trip. I really hadn't expected to have such an exciting journey. 
+
+_23/10/2026_
+**p.35 es. 3**
+- In karate the opponent can be stronger or weaker than you.
+- In the 100-metre sprint you are you own opponent.
+- Coaches are people who teach other people sports.
+- While climbing you use a rope.
+- In tennis you and your opponents are divided by a net.
