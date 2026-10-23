@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/exercises.md",
+                "file": "SeR/Sistemi e Reti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercises"
+              "title": "Sistemi e Reti"
+            }
+          },
+          {
+            "id": "34c92c822d2497c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SeR/Lezione SeR2 3TELB.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lezione SeR2 3TELB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f8fb0730ced0e26c",
@@ -197,12 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1b7f63b0362c862",
+  "active": "34c92c822d2497c3",
   "lastOpenFiles": [
+    "SeR/Sistemi e Reti.md",
+    "SeR/Lezione SeR2 3TELB.pdf",
+    "SeR/Lezione SeR1 3TELB.pdf",
+    "Inglese/exercises.md",
     "Inglese/homework.md",
     "LSeR/Laboratorio Sistemi e Reti.md",
     "orario-v3.jpg",
-    "Inglese/exercises.md",
     "Pasted image 20261008133946.png",
     "Pasted image 20261008133815.png",
     "Pasted image 20261008133719.png",
@@ -213,7 +228,6 @@
     "Pasted image 20261008131618.png",
     "Pasted image 20261008125042.png",
     "LTEL/LTEL.md",
-    "SeR/Sistemi e Reti.md",
     "LSeR",
     "LTEL",
     "Informatica/Informatica.md",

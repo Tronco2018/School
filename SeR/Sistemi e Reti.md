@@ -53,3 +53,5 @@ Il sistema operativo e' diviso in due parti principali, il kernel-space e lo use
 
 ### Driver
 I driver sono l'unica parte introducibile dall'utente sul sistema che può comunicare quasi direttamente con l'hardware. Questi, se scritti male, posso portare ad un crash del sistema oppure essere pericolosi se provenienti da siti non ufficiali dei produttori.
+
+
