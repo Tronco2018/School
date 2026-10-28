@@ -99,3 +99,7 @@ _28/10/2026_
 4. Marathon
 5. Coach
 6. Yoga
+
+**p. 36 es. 2**
+1. Because she loves solving puzzles and climbing it's like puzzles for her.
+2. She completed the golden shadow problem, a V14 climb and Horizon a V15 climb.
