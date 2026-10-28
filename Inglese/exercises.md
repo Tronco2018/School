@@ -90,3 +90,12 @@ _23/10/2026_
 - Coaches are people who teach other people sports.
 - While climbing you use a rope.
 - In tennis you and your opponents are divided by a net.
+
+_28/10/2026_
+**p. 35 es. 5**
+1. Football
+2. Sailing
+3. Climbing
+4. Marathon
+5. Coach
+6. Yoga
