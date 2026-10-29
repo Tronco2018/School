@@ -103,3 +103,14 @@ _13/10/2026_
 6. Mr Pendleton just told Karina that she didn't win the award. It's such disappointing news.
 7. He didn't tell me his secret until today. It's amazing that he's going to Morocco for the summer!
 8. Have you ever played in a band in your life?
+
+_30/10/2026_
+**p.198 es. 2**
+
+| Team sports | Individual sports |
+| ----------- | ----------------- |
+| basketball  | badminton         |
+| cricket     | boxing            |
+| ice hokey   | ice skating       |
+| rugby       | suring            |
+| volleyball  | tennis            |
