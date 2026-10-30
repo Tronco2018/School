@@ -103,3 +103,11 @@ _28/10/2026_
 **p. 36 es. 2**
 1. Because she loves solving puzzles and climbing it's like puzzles for her.
 2. She completed the golden shadow problem, a V14 climb and Horizon a V15 climb.
+
+**p. 37 es. 7**
+1. We didn't have a PE lesson yesterday.
+2. I've never liked watching football on TV.
+3. The athletes have just finished warming up.
+4. Simona saw a tennis match earlier this week.
+5. The coach wasn't at our last training lesson.
+6. Have you ever been in a school sports team?
