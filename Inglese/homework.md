@@ -114,3 +114,13 @@ _30/10/2026_
 | ice hokey   | ice skating       |
 | rugby       | suring            |
 | volleyball  | tennis            |
+
+**p.200 es. 1**
+1. PP
+2. PS
+3. PP
+4. PP
+5. PS
+6. PS
+7. PS
+8. PP
