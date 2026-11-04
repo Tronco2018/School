@@ -77,3 +77,78 @@ int main() {
 }
 ```
 
+## Ordinamento di un array
+Gli array possono essere ordinati in numerosi modi. Alcuni sono:
+- Per selezione (Selection sort)
+- A bolle (Bubble sort)
+- Quick sort
+
+### Implementazioni
+**Selection Sort in ordine crescente**
+```c
+#define DIM ...
+int main() {
+	int arr[DIM], min, pos, temp, n = DIM;
+	// arr esempio => 7 1 4 8 3 5 7 4 9
+	
+	// 1. Cercare il minimo e scambiarlo con il primo elemento
+	// 2. Cercare il minimo a partire dalla posizione successiva
+	// 3. Scambiarlo con l'elemento da cui si e' partiti
+	
+	// Carica array
+	for (int i = 0; i < n; i++) scanf("%d", &arr[i]);
+	
+	for (int i = 0; i < n - 1; i++) {
+		// Minimo di base
+		min = arr[i];
+		pos = i;
+		
+		// Cerca minimo
+		for (int j = i; j < n; j++) {
+			if (arr[j] < min) {
+				min = arr[j];
+				pos = j;
+			}
+		}
+		
+		// Scambia minimo con arr[i]
+		temp = arr[i];
+		arr[i] = arr[pos];
+		arr[pos] = temp;
+	}
+	
+	// Stampa risultato
+	for (int i = 0; i < n; i++) {
+		printf("%d ", arr[i]);
+	}
+	
+	return 0;
+}
+```
+
+**Bubble sort**
+```c
+#include <stdio.h>
+
+#define DIM ...
+int main() { 
+	int arr[DIM], temp, n = DIM;
+	
+	// 1. Confronta due elementi adiacenti
+	// 2. Se il precedente e' maggiore del successivo li scambio
+	
+	for (int i = 0; i < n; i++) scanf("%d", &arr[i]);
+	
+	for (int i = 0; i < n-1; i++) {
+		if (arr[i] > arr[i+1]){
+			temp = arr[i];
+			arr[i] = arr[i+1];
+			arr[i+1] = temp;
+		}
+	}
+	
+	for (int i = 0; i < n; i++) printf("%d ", arr[i]);
+	
+	return 0;
+}
+```
