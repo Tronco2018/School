@@ -124,3 +124,15 @@ _30/10/2026_
 6. PS
 7. PS
 8. PP
+
+_10/11/2026_
+**p. 43 es. 6**
+
+Sports are one of the fundamental concepts in the history of the human begin itself. For years sport has been practiced in so many ways that we can't even name them all. 
+What has been created during the years are the Olympic Games. A series of traditional sports where the most talented from all around the globe compete for the gold medal.
+
+In the modern day though there are definitely more disadvantages then advantages for a country when it holds events like the Olympic Games. That's because it's convenient only for a few specific sectors like tourism or dining.
+
+Another topic that is very discussed is that top athletes make more then doctors and teachers. While I get that reaching that point of performance takes loads of time and therefore denies the possibility of committing to a job in the meantime I also think that the biggest athletes in the world have salaries which exceed any reasonable level. There are some more important sectors like medicine where that kind of money could be used to treat people and search cures to diseases.
+
+Concluding, I think that most of the population in a country which hosts big events like the Olympic Games would only perish from them.
