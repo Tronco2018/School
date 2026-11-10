@@ -136,3 +136,4 @@ In the modern day though there are definitely more disadvantages then advantages
 Another topic that is very discussed is that top athletes make more then doctors and teachers. While I get that reaching that point of performance takes loads of time and therefore denies the possibility of committing to a job in the meantime I also think that the biggest athletes in the world have salaries which exceed any reasonable level. There are some more important sectors like medicine where that kind of money could be used to treat people and search cures to diseases.
 
 Concluding, I think that most of the population in a country which hosts big events like the Olympic Games would only perish from them.
+

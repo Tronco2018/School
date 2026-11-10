@@ -111,3 +111,50 @@ _28/10/2026_
 4. Simona saw a tennis match earlier this week.
 5. The coach wasn't at our last training lesson.
 6. Have you ever been in a school sports team?
+
+_10/11/2026_
+
+**p.259 es. 2**
+1. We played three matches yesterday.
+2. She hasn't tried rollerblading yet, but I'm sure she will.
+3. The team has competed in the tournamet for more then 30 years. In fact, this year will be their 33rd year!
+4. Oh, no! You hurt your arm. It looks really sore.
+5. He is in the changing rooms to get ready.
+6. Sam and I have played together for three years.
+7. They haven't won any matches so far this year.
+8. I've known him since 2014.
+
+**es. 4**
+1.A: How long have you been playing hockey?
+1.B: Six years. In that time, I've played for three different teams.
+
+1.A: Did you and your teams win any tournaments?
+1.B: We didn't win any big trophies, but we won the local tournament last month.
+1.A: Congratulations
+
+2.A: Where have you been?
+2.B: I've been working out at the gym.
+2.A: You haven't showered yet, that's for sure! You smell terrible!
+2.B: Give me a chance! I just got home!
+
+3.A: Who's that player with the ball? He has played well so far.
+3.B: That's Gareth Bale. You must have heard of him! He have been playing for Madrid all season.
+3.A: Of course I heard of him! But I didn't know what he looked like.
+
+**es. 5**
+1. How many Grand Slams has she won?
+2. How much have they spent so far?
+3. For how long was she a member?
+4. How long have you known each other?
+5. For how long have you cycled?
+6. How much did it cost?
+
+**es. 6**
+1. Have you ever ran a marathon?
+2. He has just bought some new trainers.
+3. They've never won before.
+4. Has she played for the team yet?
+5. We've never met a famous person.
+6. I haven't had time to wash my football boots yet. They're very dirty!
+7. I've already done some exercise today.
+8. Have you just arrived? Get your swimming costume on!
