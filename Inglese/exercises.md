@@ -114,11 +114,25 @@ _28/10/2026_
 
 _10/11/2026_
 
+**es. 1**
+1. 've always loved
+2. invited
+3. have been
+4. was
+5. turned over
+6. didn't give up
+7. 've spent
+8. just bought
+9. haven't taken
+10. took
+11. haven't seen
+12. has gone
+
 **p.259 es. 2**
 1. We played three matches yesterday.
 2. She hasn't tried rollerblading yet, but I'm sure she will.
-3. The team has competed in the tournamet for more then 30 years. In fact, this year will be their 33rd year!
-4. Oh, no! You hurt your arm. It looks really sore.
+3. The team has competed in the tournament for more then 30 years. In fact, this year will be their 33rd year!
+4. Oh, no! You have hurt your arm. It looks really sore.
 5. He is in the changing rooms to get ready.
 6. Sam and I have played together for three years.
 7. They haven't won any matches so far this year.
